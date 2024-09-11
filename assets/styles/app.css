@@ -1,3 +1,11 @@
 body {
-    background-color: skyblue;
+    background-color:#2E073F;
+    color: #EBD3F8;
+}
+h1{
+    color: #AD49E1;
+}
+
+.example-wrapper code {
+    background: black;
 }
